@@ -1,0 +1,13 @@
+#container{
+    border: dotted 1px;
+
+}
+
+#incontainer{
+    border: purple solid 2px;
+    padding: 20px;
+    margin: 5%;
+
+    
+    
+}
